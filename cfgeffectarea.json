@@ -1,0 +1,41 @@
+{
+    "Areas": [  
+		{ 	"AreaName": "NPP cooling towers Mist", 
+			"Type": "SpookyArea", 
+			"TriggerType": "effecttrigger",
+			"Data": { 
+				"Pos": [ 9206.644531, 195, 13615.889648 ],
+				"Radius": 100,
+				"PosHeight": 1,
+				"NegHeight": 1,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ChanceGroupName": "",
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+		}
+    ],
+
+	"SafePositions":[
+		[3094.428467, 13293.837891],
+		[12782.799805, 3363.360107],
+		[4574.470215, 18494.000000],
+		[6471.509766, 11341.000000],
+		[3190.399658, 15920.688477],
+		[17230.500000, 16484.699219],
+		[14277.299805, 10013.599609],
+		[10179.500000, 10604.599609],
+		[8954.320313, 12583.400391],
+		[2912.850098, 8225.190430]
+	]
+}
