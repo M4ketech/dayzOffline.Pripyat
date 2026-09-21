@@ -115,6 +115,62 @@
 		<pos x="16247.7" z="15873.3" a="0"/>
 		<pos x="16585.8" z="16423.7" a="0"/>
 	</event>
+	<event name="StaticChristmasTree"> <!-- UPDATED FOR PRIPYAT -->
+		<!-- Chernobyl -->
+		<pos x="15041" z="1744" a="0"/>
+		<!-- Chernobyl 2 -->
+		<pos x="14746" z="1193" a="0"/>
+		<!-- Chernobyl 3 -->
+		<pos x="14268" z="1896" a="0"/>
+		<!-- Leliv -->
+		<pos x="12250" z="5834" a="0"/>
+		<!-- Rostok -->
+		<pos x="7202" z="8155" a="0"/>
+		<!-- Hubyn -->
+		<pos x="8991" z="5367" a="0"/>
+		<!-- Dytyatky -->
+		<pos x="7556"  z="10158" a="0"/>
+		<!-- Kopachi -->
+		<pos x="8392" z="11533" a="0"/>
+		<!-- Pripyat main -->
+		<pos x="4143" z="17095" a="0"/>
+		<!-- Pripyat North -->
+		<pos x="3713" z="17930" a="0"/>
+		<!-- Kovshylivka -->
+		<pos x="3663" z="7379" a="0"/>
+		<!-- Luhovyky -->
+		<pos x="2278" z="14540" a="0"/>
+		<!-- Cheremoshna -->
+		<pos x="1607" z="18619" a="0"/>
+		<!-- North Village -->
+		<pos x="9261" z="18491" a="0"/>
+		<!-- Stara Markivka -->
+		<pos x="11785" z="18416" a="0"/>
+		<!-- Vesna -->
+		<pos x="13547" z="18704" a="0"/>
+		<!-- Kryva Hora -->
+		<pos x="13819" z="14388" a="0"/>
+		<!-- Berezki -->
+		<pos x="12731" z="12879" a="0"/>
+		<!-- Refugee Camp -->
+		<pos x="18180" z="6605" a="0"/>
+		<!-- Romanivka -->
+		<pos x="16156" z="3962" a="0"/>
+		<!-- Belaya Soroka -->
+		<pos x="13841" z="7621" a="0"/>
+		<!-- Sandy plateau -->
+		<pos x="4488" z="18221" a="0"/>
+		<!-- Sidorovich Village -->
+		<pos x="8801" z="2962" a="0"/>
+		<!-- Limansk -->
+		<pos x="7446" z="1098" a="0"/>
+		<!-- Selyshche Zalissya -->
+		<pos x="5217" z="2334" a="0"/>
+		<!-- Stari Sokoly -->
+		<pos x="1610" z="3240" a="0"/>
+		<!-- Novi Sokoly -->
+		<pos x="750" z="1764" a="0"/>
+	</event>
 	<event name="StaticBonfire"> <!-- UPDATED FOR PRIPYAT -->
 		<zone smin="3" smax="5" dmin="3" dmax="5" r="55" />
 		<!-- Chernobyl city -->
