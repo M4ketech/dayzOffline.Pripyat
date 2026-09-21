@@ -176,8 +176,8 @@
 			</container>
 		</group>
 	<group name="Land_MobileLaboratory" lootmax="5">
-				<usage name="Military" />
 				<usage name="Medic" />
+				<usage name="Firefighter" />
 				<usage name="ContaminatedArea" />
 				<container name="lootFloor" lootmax="5">
 						<category name="tools" />
@@ -4574,7 +4574,7 @@
 						<point pos="-0.022095 0.400101 -0.526611" range="0.375000" height="0.937500" />
 				</container>
 		</group>
-<group name="Land_Roadblock_WoodenCrate" lootmax="1">
+		<group name="Land_Roadblock_WoodenCrate" lootmax="1">
 				<usage name="Military" />
 				<usage name="Police" />
 				<usage name="Medic" />
