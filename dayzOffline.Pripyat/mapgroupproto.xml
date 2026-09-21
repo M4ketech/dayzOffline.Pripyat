@@ -77,16 +77,6 @@
 						<point pos="6.444421 0.618052 2.452449" range="0.203125" height="0.507813" />
 				</container>
 		</group>
-			<group name="Land_fnr_Bunkerpart_03" lootmax="4">
-				<usage name="Military" />
-				<container name="lootFloor" lootmax="4">
-						<point pos="1.422210 0.384818 1.145160" range="0.1" height="1" /> 
-						<point pos="1.261079 0.384818 -1.210625" range="0.1" height="1" /> 
-						<point pos="-1.413879 0.384818 1.031765" range="0.1" height="1" /> 
-						<point pos="-1.505555 0.384818 -1.232281" range="0.1" height="1" /> 
-						<point pos="1.214840 0.858288 -3.709990" range="0.1" height="1" /> 
-				</container>
-		</group>
 		<group name="Land_Tunnelbridge" lootmax="4">
 			<usage name="Military" />
 			<container name="lootFloor" lootmax="4">
@@ -29725,6 +29715,16 @@
 				<point pos="3.748963 -15.868236 -0.719256" range="1" height="1" /> 
 				<point pos="-3.262322 -15.780985 -0.628026" range="1" height="1" /> 
 			</container>
+		</group>
+		<group name="Land_fnr_Bunkerpart_03" lootmax="4">
+				<usage name="Military" />
+				<container name="lootFloor" lootmax="4">
+						<point pos="1.422210 0.384818 1.145160" range="0.1" height="1" /> 
+						<point pos="1.261079 0.384818 -1.210625" range="0.1" height="1" /> 
+						<point pos="-1.413879 0.384818 1.031765" range="0.1" height="1" /> 
+						<point pos="-1.505555 0.384818 -1.232281" range="0.1" height="1" /> 
+						<point pos="1.214840 0.858288 -3.709990" range="0.1" height="1" /> 
+				</container>
 		</group>
 		<!-- NOT INGAME - PREPARATION
 		<group name="Land_Wreck_truck02_aban1_green" >
