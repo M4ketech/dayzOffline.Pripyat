@@ -6,6 +6,3 @@ Pripyat **requires** GSC Gameworld Assets mod: [https://steamcommunity.com/share
 **It is a dependency**
 
 for support, visit https://discord.gg/xUbshXbvVK
-
-
-You can support my work with Ko-fi https://ko-fi.com/m4ketech
