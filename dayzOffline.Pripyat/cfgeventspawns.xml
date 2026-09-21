@@ -622,6 +622,32 @@
     	<pos x="3141.08984375" z="15713.630859375" a="0" y="207.7693634033203" group="Train_Mil_Electric_Station"/>
     	<pos x="12155.75" z="19059.775390625" a="0" y="200.10671997070312" group="Train_Mil_Vesna_North"/>
 	</event>
+	<event name="StaticMilitaryConvoy"> <!-- DONE FOR PRIPYAT -->
+		<zone smin="0" smax="0" dmin="1" dmax="1" r="20" />
+    	<pos x="13614.1396484375" z="3382.305908203125" a="0" y="204.6429443359375" group="Abandoned_ChernobylMilitary"/>
+		<pos x="12746.4365234375" z="4649.84716796875" a="0" y="205.16049194335938" group="Abandoned_LelivCP"/>
+		<pos x="14613.3408203125" z="1889.501953125" a="0" y="206.8373260498047" group="Abandoned_ChernobylNorth"/>
+		<pos x="368.2574157714844" z="2180.92578125" a="0" y="206.2358856201172" group="Abandoned_NovySokoly"/>
+		<pos x="19085.265625" z="3930.522705078125" a="0" y="198.9796600341797" group="Abandoned_Laputky"/>
+		<pos x="12280.513671875" z="2287.541015625" a="0" y="203.38902282714844" group="Abandoned_Potoky"/>
+		<pos x="7268.68603515625" z="2241.607177734375" a="0" y="205.9925994873047" group="Abandoned_Limansk"/>
+		<pos x="18544.666015625" z="6661.67724609375" a="0" y="204.77520751953125" group="Abandoned_Refugee"/>
+		<pos x="14576.1884765625" z="11175.7763671875" a="0" y="199.54769897460938" group="Abandoned_Kladovyshche"/>
+		<pos x="12638.1533203125" z="18198.919921875" a="0" y="200.63099670410156" group="Abandoned_Vesna"/>
+		<pos x="4333.77783203125" z="15548.6689453125" a="0" y="202.46559143066406" group="Abandoned_Yanov"/>
+		<pos x="6873.6982421875" z="7788.4052734375" a="0" y="208.13720703125" group="Ambush_Rostok"/>
+		<pos x="9336.3828125" z="8914.28125" a="0" y="202.80043029785156" group="Ambush_Bohdany"/>
+		<pos x="1575.9244384765625" z="13563.734375" a="0" y="202.8187713623047" group="Ambush_Vasylkiv"/>
+		<pos x="1828.4375" z="3232.292724609375" a="0" y="207.54466247558594" group="Ambush_StarySokoli"/>
+		<pos x="11140.5693359375" z="3690.9677734375" a="0" y="208.62957763671875" group="Ambush_LelivBypass"/>
+		<pos x="7711.17578125" z="12791.0087890625" a="0" y="200.91000366210938" group="Supply_Buryakivka"/>
+		<pos x="8641.005859375" z="16754.677734375" a="0" y="200.3717803955078" group="Supply_Oriyana"/>
+		<pos x="5384.76171875" z="16244.955078125" a="0" y="203.00221252441406" group="Supply_PripyatEast"/>  
+		<pos x="1955.34423828125" z="16420.52734375" a="0" y="203.6478271484375" group="Supply_PripyatMilitary"/>
+		<pos x="17204.818359375" z="14616.9970703125" a="0" y="205.65016174316406" group="Supply_Jagala"/>
+		<pos x="19140.001953125" z="18434.98046875" a="0" y="567.7747192382812" group="Supply_LabX18"/>
+		<pos x="1447.67041015625" z="18881.611328125" a="0" y="201.4305419921875" group="Supply_Cheremoshna"/>
+	</event>
 	<event name="ItemPlanks">
 		<pos x="13772.8" z="18422.2" a="-30"/>
 		<pos x="13337.7" z="18585.5" a="-110"/>
