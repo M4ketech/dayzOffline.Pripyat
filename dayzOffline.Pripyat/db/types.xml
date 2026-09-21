@@ -430,6 +430,7 @@
         <category name="clothes"/>
         <usage name="Medic"/>
         <usage name="Firefighter"/>
+		<usage name="Underground"/>
     </type>
     <type name="AlarmClock_Blue">
         <nominal>20</nominal>
@@ -487,6 +488,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
+		<usage name="Underground"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -501,6 +503,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
+		<usage name="Underground"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -515,6 +518,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
+		<usage name="Underground"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -1624,6 +1628,7 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
+		<usage name="Underground"/>
     </type>
     <type name="AntiPestsSpray">
         <nominal>0</nominal>
@@ -2352,6 +2357,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+		<usage name="Underground"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
