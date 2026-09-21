@@ -587,6 +587,7 @@
 		</group>
 	<group name="Land_WarheadStorage_Room1" lootmax="20">
 				<usage name="Military" />
+				<usage name="Underground" />
 				<container name="lootshelves" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -665,6 +666,7 @@
 		</group>
 		<group name="Land_WarheadStorage_Room2" lootmax="20">
 				<usage name="Military" />
+				<usage name="Underground" />
 				<container name="lootshelves" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -717,6 +719,7 @@
 		</group>
 		<group name="Land_WarheadStorage_Room3" lootmax="20">
 				<usage name="Military" />
+				<usage name="Underground" />
 				<container name="lootshelves" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -771,6 +774,7 @@
 		</group>
 		<group name="Land_WarheadStorage_Room4" lootmax="25">
 				<usage name="Military" />
+				<usage name="Underground" />
 				<container name="lootshelves" lootmax="10">
 						<category name="tools" />
 						<category name="containers" />
