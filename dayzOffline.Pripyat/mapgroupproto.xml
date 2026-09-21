@@ -1223,27 +1223,6 @@
 		<point pos="7.170485 3.035998 -13.166806" range="1" height="1" /> 
 	</container>
 </group>
-<!--NZJOCKO added -->
-<group name="land_chz_janov_boudicka" lootmax="3">
-	<container name="lootFloor" lootmax="2">
-		<usage name="Hunting" />
-		<usage name="Village" />
-		<category name="tools" />
-		<category name="clothes" />
-		<category name="weapons" />
-		<category name="containers" />
-		<point pos="3.840796 0.012587 -3.149981" range="1" height="1" /> 
-		<point pos="4.357584 0.012587 1.128080" range="1" height="1" /> 
-		<point pos="-3.573471 0.042671 -2.563289" range="1" height="1" /> 
-		<point pos="-4.203684 0.042669 0.715432" range="1" height="1" /> 
-	</container>	
-	<container name="lootshelves" lootmax="1">
-		<usage name="Industrial" />
-		<usage name="Farm" />	
-		<point pos="3.748963 -15.868236 -0.719256" range="1" height="1" /> 
-		<point pos="-3.262322 -15.780985 -0.628026" range="1" height="1" /> 
-	</container>
-</group>
 <!-- new reactor names START-->
 <group name="land_chz_chnpp_hlavni_2_1b" lootmax="4">
 	<usage name="ContaminatedArea"/>
@@ -29725,6 +29704,26 @@
 				<point pos="-11.264879 1.020762 0.440150" range="1" height="1" /> 
 				<point pos="-14.429461 1.020762 10.227724" range="1" height="1" /> 
 				<point pos="-20.083654 1.020762 -0.357267" range="1" height="1" /> 
+			</container>
+		</group>
+		<group name="land_chz_janov_boudicka" lootmax="3">
+			<container name="lootFloor" lootmax="2">
+			<usage name="Hunting" />
+			<usage name="Village" />
+			<category name="tools" />
+			<category name="clothes" />
+			<category name="weapons" />
+			<category name="containers" />
+				<point pos="3.840796 0.012587 -3.149981" range="1" height="1" /> 
+				<point pos="4.357584 0.012587 1.128080" range="1" height="1" /> 
+				<point pos="-3.573471 0.042671 -2.563289" range="1" height="1" /> 
+				<point pos="-4.203684 0.042669 0.715432" range="1" height="1" /> 
+			</container>	
+			<container name="lootshelves" lootmax="1">
+			<usage name="Industrial" />
+			<usage name="Farm" />	
+				<point pos="3.748963 -15.868236 -0.719256" range="1" height="1" /> 
+				<point pos="-3.262322 -15.780985 -0.628026" range="1" height="1" /> 
 			</container>
 		</group>
 		<!-- NOT INGAME - PREPARATION
