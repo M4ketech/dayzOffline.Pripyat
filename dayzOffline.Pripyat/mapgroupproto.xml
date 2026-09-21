@@ -1224,17 +1224,6 @@
 	</container>
 </group>
 <!--NZJOCKO added -->
-<group name="Land_Limansk_city_building_34" lootmax="4">
-	<usage name="Village" />
-	<usage name="Town"/>
-	<container name="lootFloor" lootmax="4">
-		<point pos="3.098077 -9.546467 7.442851" range="1" height="1" /> 
-		<point pos="-1.776593 -9.546467 7.282200" range="1" height="1" /> 
-		<point pos="2.107633 -4.046466 6.850380" range="1" height="1" /> 
-		<point pos="-5.575972 -4.046468 6.800428" range="1" height="1" /> 
-		<point pos="-19.027782 -4.086468 5.394523" range="1" height="1" /> 
-	</container>
-</group>
 <group name="land_chz_janov_boudicka" lootmax="3">
 	<container name="lootFloor" lootmax="2">
 		<usage name="Hunting" />
@@ -29730,6 +29719,17 @@
 					<point pos="-9.911621 -0.225845 -10.411133" range="1.0" height="1.0" />
 					<point pos="-6.416260 -0.225845 -10.410156" range="1.0" height="1.0" />
 					<point pos="-7.818848 0.935242 -16.935547" range="1.0" height="1.0" />
+			</container>
+		</group>
+		<group name="Land_Limansk_city_building_34" lootmax="4">
+			<usage name="Village" />
+			<usage name="Town"/>
+			<container name="lootFloor" lootmax="4">
+				<point pos="3.098077 -9.546467 7.442851" range="1" height="1" /> 
+				<point pos="-1.776593 -9.546467 7.282200" range="1" height="1" /> 
+				<point pos="2.107633 -4.046466 6.850380" range="1" height="1" /> 
+				<point pos="-5.575972 -4.046468 6.800428" range="1" height="1" /> 
+				<point pos="-19.027782 -4.086468 5.394523" range="1" height="1" /> 
 			</container>
 		</group>
 		<!-- NOT INGAME - PREPARATION
