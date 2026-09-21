@@ -406,6 +406,7 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
+		<usage name="Underground"/>
     </type>
     <type name="AK_WoodBttstck">
         <nominal>5</nominal>
@@ -12590,6 +12591,7 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
+		<usage name="Underground"/>
     </type>
     <type name="M4_T3NRDSOptic">
         <nominal>10</nominal>
@@ -13051,6 +13053,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="ContaminatedArea"/>
+		<usage name="Underground"/>
     </type>
     <type name="Mag_CZ527_5rnd">
         <nominal>20</nominal>
@@ -13414,6 +13417,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="ContaminatedArea"/>
+		<usage name="Underground"/>
     </type>
     <type name="Mag_SV98_10Rnd">
         <nominal>4</nominal>
@@ -13480,7 +13484,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
+        <usage name="Underground"/>
     </type>
     <type name="Mag_Scout_5Rnd">
         <nominal>8</nominal>
