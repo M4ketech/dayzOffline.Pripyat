@@ -5705,24 +5705,6 @@
 	</container>
 </group>
 <!-- copy of above for white NZJOCKO -->
-<group name="Land_Escape_village_house2_white" lootmax="4">
-	<usage name="Town"/>
-	<usage name="Village" />
-	<usage name="Farm" />
-	<container name="lootFloor" lootmax="4">
-	<category name="tools" />
-	<category name="containers" />
-	<category name="clothes" />
-	<category name="weapons" />
-	<category name="food" />
-		<point pos="0.739537 -2.680087 -4.885707" range="1" height="1" /> 
-		<point pos="3.061958 -2.679192 0.671583" range="1" height="1" /> 
-		<point pos="3.135425 -2.575123 -4.464038" range="1" height="1" /> 
-		<point pos="-1.722255 -2.679192 -1.965052" range="1" height="1" /> 
-		<point pos="-3.179414 -2.679192 4.413233" range="1" height="1" /> 
-		<point pos="2.471057 -2.679192 4.370119" range="1" height="1" /> 
-	</container>
-</group>
 <group name="Land_Escape_village_house3_red" lootmax="3">
 	<usage name="Town"/>
 	<usage name="Village" />
@@ -29745,6 +29727,24 @@
 				<point pos="5.164598 3.876423 4.369055" range="1" height="1" /> 
 				<point pos="4.686521 3.876423 4.869912" range="1" height="1" /> 
 				<point pos="4.165085 3.876423 5.327741" range="1" height="1" /> 
+			</container>
+		</group>
+		<group name="Land_Escape_village_house2_white" lootmax="4">
+			<usage name="Town"/>
+			<usage name="Village" />
+			<usage name="Farm" />
+			<container name="lootFloor" lootmax="4">
+				<category name="tools" />
+				<category name="containers" />
+				<category name="clothes" />
+				<category name="weapons" />
+				<category name="food" />
+				<point pos="0.739537 -2.680087 -4.885707" range="1" height="1" /> 
+				<point pos="3.061958 -2.679192 0.671583" range="1" height="1" /> 
+				<point pos="3.135425 -2.575123 -4.464038" range="1" height="1" /> 
+				<point pos="-1.722255 -2.679192 -1.965052" range="1" height="1" /> 
+				<point pos="-3.179414 -2.679192 4.413233" range="1" height="1" /> 
+				<point pos="2.471057 -2.679192 4.370119" range="1" height="1" /> 
 			</container>
 		</group>
 		<!-- NOT INGAME - PREPARATION
