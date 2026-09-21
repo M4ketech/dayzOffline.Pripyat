@@ -16949,7 +16949,6 @@
 						<category name="clothes" />
 						<category name="weapons" />
 						<category name="books" />
-						<category name="explosives" />
 						<point pos="1.819336 -0.538246 -0.031006" range="1.010986" height="2.000000" />
 						<point pos="4.255126 -0.538216 0.003174" range="1.029785" height="2.000000" />
 						<point pos="-4.144531 -0.538322 -0.010254" range="1.031738" height="2.000000" />
@@ -28010,11 +28009,7 @@
 						<proxy type="FireworksLauncher" pos="-1.726919 -0.39 0.223045" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
 				</dispatch>
 		</group>
-		
-		
-		
 		<!--Dynamic Events-->
-		
 		<group name="StaticObj_Wreck_Train_Wagon_Flat_DE" lootmax="15">
 				<usage name="Industrial" />
 				<usage name="Town" />

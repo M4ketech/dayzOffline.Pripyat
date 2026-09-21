@@ -598,6 +598,30 @@
 		<pos x="17430.100" z="11657.200" />
 		<pos x="7649.130" z="13078" />
 	</event>
+	<event name="StaticTrain"> <!-- DONE FOR PRIPYAT -->
+	<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
+    	<pos x="11291.611328125" z="18339.642578125" a="0" y="201.77182006835938" group="Train_Abandoned_Stara_Markivka"/>
+    	<pos x="4744.17626953125" z="15817.1201171875" a="0" y="204.2102508544922" group="Train_Abandoned_Yanov_Station"/>
+    	<pos x="9083.2998046875" z="12660.7451171875" a="0" y="202.99884033203125" group="Train_Abandoned_Nuclear_Fuel_Storage"/>
+    	<pos x="2381.828125" z="15719.3935546875" a="0" y="208.014404296875" group="Train_Abandoned_Pripyat_Military_South"/>
+    	<pos x="5862.837890625" z="15773.1552734375" a="0" y="203.29684448242188" group="Train_Abandoned_Reactor_North_West"/>
+    	<pos x="7538.998046875" z="15880.6669921875" a="0" y="204.28575134277344" group="Train_Abandoned_Nuclear_Station"/>
+    	<pos x="8391.9365234375" z="13385.13671875" a="0" y="203.2085723876953" group="Train_Abandoned_Fuel_Storage_West"/>
+    	<pos x="9442.1943359375" z="13615.978515625" a="0" y="202.9631805419922" group="Train_Abandoned_Cooling_Towers"/>
+    	<pos x="8019.6806640625" z="14948.6513671875" a="0" y="204.2989044189453" group="Train_Abandoned_Reactor_East"/>
+    	<pos x="6744.38525390625" z="15453.189453125" a="0" y="202.31771850585938" group="Train_Accident_Reactor_North_East"/>
+    	<pos x="5522.49169921875" z="15849.220703125" a="0" y="202.6872100830078" group="Train_Accident_Schorcher_South"/>
+    	<pos x="5239.03173828125" z="16039.2109375" a="0" y="202.17428588867188" group="Train_Accident_Prison_South"/>
+    	<pos x="8300.5166015625" z="12963.8984375" a="0" y="203.7391815185547" group="Train_Accident_Fuel_Storage"/>
+    	<pos x="9223.8330078125" z="13114.462890625" a="0" y="202.67262268066406" group="Train_Accident_Cooling_Towers_South"/>
+    	<pos x="6292.25341796875" z="13803.4619140625" a="0" y="202.91014099121094" group="Train_Accident_Sub_Station_South"/>
+    	<pos x="5135.1962890625" z="15409.947265625" a="0" y="201.70913696289062" group="Train_Accident_Reactor_West"/>
+    	<pos x="5617.3671875" z="16222.806640625" a="0" y="202.65072631835938" group="Train_Accident_Prison_South_East"/>
+    	<pos x="6965.67236328125" z="15384.68359375" a="0" y="204.50148010253906" group="Train_Mil_Reactor_North"/>
+		<pos x="7206.86669921875" z="14758.5546875" a="0" y="203.80384826660156" group="Train_Mil_Reactor_South"/>
+    	<pos x="3141.08984375" z="15713.630859375" a="0" y="207.7693634033203" group="Train_Mil_Electric_Station"/>
+    	<pos x="12155.75" z="19059.775390625" a="0" y="200.10671997070312" group="Train_Mil_Vesna_North"/>
+	</event>
 	<event name="ItemPlanks">
 		<pos x="13772.8" z="18422.2" a="-30"/>
 		<pos x="13337.7" z="18585.5" a="-110"/>
